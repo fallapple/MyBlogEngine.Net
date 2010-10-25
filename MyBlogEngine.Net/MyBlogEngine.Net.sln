@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyBlogEngine.UI", "MyBlogEngine.UI\MyBlogEngine.UI.csproj", "{BEFD43A2-4474-4CC1-A7F1-36E0D7394097}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyBlogEngine.UI.Tests", "MyBlogEngine.UI.Tests\MyBlogEngine.UI.Tests.csproj", "{279C8C6E-5583-4D4D-934E-9D7BC071BD07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEFD43A2-4474-4CC1-A7F1-36E0D7394097}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEFD43A2-4474-4CC1-A7F1-36E0D7394097}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEFD43A2-4474-4CC1-A7F1-36E0D7394097}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEFD43A2-4474-4CC1-A7F1-36E0D7394097}.Release|Any CPU.Build.0 = Release|Any CPU
+		{279C8C6E-5583-4D4D-934E-9D7BC071BD07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{279C8C6E-5583-4D4D-934E-9D7BC071BD07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{279C8C6E-5583-4D4D-934E-9D7BC071BD07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{279C8C6E-5583-4D4D-934E-9D7BC071BD07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
